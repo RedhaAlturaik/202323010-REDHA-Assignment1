@@ -16,7 +16,7 @@ Sorting visible entries to select the most dominant section
 Mapping section IDs to navigation links efficiently
 The final implementation was tested and refined manually to ensure correct behavior during scrolling.
 
-1. Dynamic Project Rendering
+2. Dynamic Project Rendering
 Instead of hardcoding project cards in HTML, projects were generated dynamically using:
 
 A structured JavaScript array (PROJECTS)
