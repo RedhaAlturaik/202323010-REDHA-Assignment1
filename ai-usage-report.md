@@ -10,7 +10,7 @@ All final code was reviewed, tested, and adjusted manually to ensure full unders
 1. Scroll Spy (IntersectionObserver)
 The most technically complex part was implementing the IntersectionObserver API to detect which section is currently visible on the screen and dynamically highlight the correct navigation link.
 
-# AI assisted with:
+AI assisted with:
 - Structuring the observer configuration (threshold, rootMargin)
 - Sorting visible entries to select the most dominant section
 - Mapping section IDs to navigation links efficiently
